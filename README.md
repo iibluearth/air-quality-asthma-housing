@@ -69,8 +69,8 @@ This analysis finds that adult asthma hospitalization rates are unevenly distrib
 
 ## Presentation & Deliverables
 
-🔗 **[Loom walkthrough (Executive Presentation)](https://public.tableau.com/app/profile/kayla.mann/viz/AirBnBFullProject_17585723461060/Dashboard1?publish=yes)
+🔗 **[Loom walkthrough (Executive Presentation)](https://www.loom.com/share/cf25610f787c4bd9869e99ff54532434)
 
 🔗 **[Gamma slide deck](https://gamma.app/docs/Adult-Asthma-Outcomes-in-Bronx-Neighborhoods-leq1pbwibxqi4if)
 
-🔗 **[Interactive Dashboard](https://public.tableau.com/app/profile/kayla.mann/viz/AirBnBFullProject_17585723461060/Dashboard1?publish=yes)
+🔗 **[Interactive Dashboard](https://claude.ai/public/artifacts/638bee4f-ba6c-47c8-8834-1b6505350368)
